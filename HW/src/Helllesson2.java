@@ -45,6 +45,7 @@ public class Helllesson2 {
                 System.out.println("Уравнение не имеет квадратных корней");
             }
         }
+        /System.out.println();
         }
     }
 
